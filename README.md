@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Praneeth!! <br>Passionate about Coding!!<br>SUNY Albany CIS Master's Grad!! <br>Proactively looking for Software Development Opportunities</h2>
+<h2 align="left">Hi, I'm Praneeth!! <br>Passionate about Coding!<br>SUNY Albany CIS Master's Grad! <br>Proactively looking for Software Development Opportunities!</h2>
 
 ###
 
