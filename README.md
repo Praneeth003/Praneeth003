@@ -1,4 +1,4 @@
-<h2 align="left">Hi, My name is Praneeth!! <br>I'm currently a Master's student at UAlbany!<br>I'm passionate about Coding!!</h2>
+<h2 align="left">Hi, My name is Praneeth!! <br>Passionate about Coding!!<br>SUNY Albany CIS Master's Grad!</h2>
 
 ###
 
