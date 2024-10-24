@@ -1,5 +1,5 @@
 <div>
-<h2 align="left">Hi, I'm Krishna Praneeth Chandana!! <br>Passionate about Coding!<br> Currently, working as Java Full Stack Developer at DOL, NYS! <br> SUNY Albany CS Master's Grad! <br>Proactively looking for Software Development Opportunities!</h2>
+<h2 align="left">Hi, I'm Krishna Praneeth Chandana!! <br>Passionate about Coding!<br> Currently working as a Java Full Stack Developer at DOL, NYS! <br>Proactively looking for better Software Development Opportunities!</h2>
 
 <img align="center" height="200" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif"  />
 </div>
