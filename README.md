@@ -1,5 +1,5 @@
 <div>
-<h2 align="">Hi, I'm Krishna Praneeth Chandana!! <br>Passionate about Coding!<br> Currently working as a Java Full Stack Developer at DOL, NYS! <br>Proactively looking for better Software Development Opportunities!</h2>
+<h2 align="">Hi, I'm Krishna Praneeth Chandana!! <br>Passionate about Coding!<br>Proactively looking for better Software Development Opportunities!</h2>
 
 </div>
 
