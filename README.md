@@ -1,8 +1,9 @@
 <h2 align="center">Hi, I'm Krishna Praneeth Chandana!! 👋</h2>
 
-<p align="center">
-  Passionate about <strong>Coding!!</strong> 💻 <br>
-  Eager to contribute to impactful <strong>Software projects</strong> 🚀
+<p align="left">
+  Passionate about <strong>Coding!</strong> 💻 <br>
+  Pro-Actively looking for better <strong>Software Development Opportunities!</strong><br>
+  Eager to contribute to impactful <strong>Software projects!</strong> 🚀
 </p>
 
 ---
