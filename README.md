@@ -11,7 +11,6 @@
 - **Test-planning agent**: an MCP-integrated agent that reads product specs and designs, then generates manual test cases and Playwright automation. It took test design from 4-7 hours per story to under 10 minutes, with an eval layer to keep the output consistent and auditable.
 - **Next.js Docs Assistant**: RAG over the Next.js docs with cited answers and similarity scores. OpenAI embeddings, Supabase/pgvector, LangChain, query expansion, adaptive thresholds.
 - **CoverLetter.AI**: a Chrome extension that reads the job posting on your screen and drafts a tailored cover letter. 50+ active users. GPT-4, Node/Express, TypeScript.
-- **Test-failure triage agent**: reads failing test runs and works out why they failed. Java. *(in progress)*
 
 **🚀 Products & systems**
 - **[WishHub](https://wishhub.live)**: an India-first wishlist and price-tracking app with affiliate links. React Native/Expo, Next.js, Supabase.
